@@ -350,12 +350,12 @@ with tab1:
         st.write("   **->PIN Authorization**")
         st.download_button("DOWNLOAD THE APP NOW", "https://www.phonepe.com/app-download/")
     with col2:
-        st.video("C:\\Users\\vignesh\\Desktop\\New folder\\phone pe\\Phone Pe Ad(720P_HD).mp4")
+        st.video("C:\\Users\\Hari\\Desktop\\New folder\\phone pe\\Phone Pe Ad(720P_HD).mp4")
 
     col3,col4= st.columns(2)
     
     with col3:
-        st.video("C:\\Users\\vignesh\\Desktop\\New folder\\phone pe\\PhonePe Motion Graphics(720P_HD).mp4")
+        st.video("C:\\Users\\Hari\\Desktop\\New folder\\phone pe\\PhonePe Motion Graphics(720P_HD).mp4")
 
     with col4:
         st.write("**-> Easy Transactions**")
@@ -385,7 +385,7 @@ with tab1:
         st.write("**->Instantly & Free**")
 
     with col6:
-        st.video("C:\\Users\\vignesh\\Desktop\\New folder\\phone pe\\PhonePe Motion Graphics(720P_HD)_2.mp4")
+        st.video("C:\\Users\\Hari\\Desktop\\New folder\\phone pe\\PhonePe Motion Graphics(720P_HD)_2.mp4")
         
 
 with tab2:
