@@ -9,8 +9,8 @@ import plotly.graph_objects as go
 #CREATE DATAFRAMES FROM SQL
 #sql connection
 mydb = psycopg2.connect(host = "localhost",
-                        user = "hari",
-                        password = "xxxxxx",
+                        user = "postgres",
+                        password = "Hariharan@123",
                         database = "phonepe_data",
                         port = "5432"
                         )
